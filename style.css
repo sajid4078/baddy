@@ -14,9 +14,77 @@ body{
     text-decoration: none;
     color: #131313;
 }
+/* banner start */
 header{
     justify-content: space-between;
     padding: 49px 140px;
     display: flex;
     align-items: center;
 }
+.sub-titile p{
+    font-weight:750px ;
+
+}
+.banner .text{
+    padding: 0 50px;
+    font-size: 24px;
+    color: #13131399;
+
+}
+.btn-2{
+    color: white;
+    border-radius: 12px;
+    width: 162px;
+    height: 56px;
+    background-color: #0E7A81; 
+    border: none;
+}
+.banner h1{
+    font-size: 72px;
+}
+.banner .content{
+    max-width: 750px;
+    margin: auto;
+    text-align: center;
+}
+/* banner end */
+
+.titele-3{
+    font-weight: 900;
+    font-size: 40px;
+}
+.outline .titele-3 {
+    
+    max-width: 750px;
+    margin: auto;
+    text-align: center; 
+}
+.all-button button{
+    width: 312px;
+    height: 104px;
+    border-radius: 16px;
+    font-size: 24px;
+    border:1px solid;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    border-radius: 16px;
+    background-color: white;
+
+
+}
+.all-button button:hover{
+background-color: #0E7A81;
+border-radius: 120px;
+}
+.all-button{
+    display: flex;
+    background-color:white ;
+    gap: 24px;
+
+}
+    
+  
+    
