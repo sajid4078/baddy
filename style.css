@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.logo a{
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 900;
+    padding: 0 12px;
+}
+.manu a{
+    padding: 0 16px;
+    text-decoration: none;
+    color: #131313;
+}
+header{
+    justify-content: space-between;
+    padding: 49px 140px;
+    display: flex;
+    align-items: center;
+}
